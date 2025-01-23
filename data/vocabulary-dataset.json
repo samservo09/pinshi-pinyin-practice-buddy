@@ -1,0 +1,968 @@
+[
+    {
+      "word": "wo3",
+      "pinyin": "wǒ",
+      "translation": "i; me",
+      "hsk_level": 1,
+      "part_of_speech": "pronoun",
+      "category": null,
+      "example_sentence": "Wǒ xǐhuan xuéxí Hànyǔ. (I like learning Chinese.)"
+    },
+    {
+      "word": "ni3",
+      "pinyin": "nǐ",
+      "translation": "you",
+      "hsk_level": 1,
+      "part_of_speech": "pronoun",
+      "category": null,
+      "example_sentence": "Nǐ hǎo ma? (How are you?)"
+    },
+    {
+      "word": "ha3o",
+      "pinyin": "hǎo",
+      "translation": "good",
+      "hsk_level": 1,
+      "part_of_speech": "adjective",
+      "category": null,
+      "example_sentence": "Jīntiān de tiānqì hěn hǎo. (Today's weather is good.)"
+    },
+    {
+      "word": "ni3 ha3o",
+      "pinyin": "nǐ hǎo",
+      "translation": "hello",
+      "hsk_level": 1,
+      "part_of_speech": "greeting",
+      "category": null,
+      "example_sentence": "Nǐ hǎo! Huānyíng guānglín. (Hello! Welcome!)"
+    },
+    {
+      "word": "za4ijia4n",
+      "pinyin": "zàijiàn",
+      "translation": "goodbye; see you again",
+      "hsk_level": 1,
+      "part_of_speech": "farewell",
+      "category": null,
+      "example_sentence": "Míngtiān jiàn, zàijiàn! (See you tomorrow, goodbye!)"
+    },
+    {
+      "word": "shi4",
+      "pinyin": "shì",
+      "translation": "to be",
+      "hsk_level": 1,
+      "part_of_speech": "verb",
+      "category": null,
+      "example_sentence": "Tā shì wǒ de péngyǒu. (He is my friend.)"
+    },
+    {
+      "word": "men",
+      "pinyin": "men",
+      "translation": "plural marker for people",
+      "hsk_level": 1,
+      "part_of_speech": "pronoun plural marker",
+      "category": null,
+      "example_sentence": "Tāmen shì xuésheng. (They are students.)"
+    },
+    {
+      "word": "zho1ngguo2",
+      "pinyin": "Zhōngguó",
+      "translation": "China",
+      "hsk_level": 1,
+      "part_of_speech": "noun",
+      "category": "Geography",
+      "example_sentence": "Wǒ láizì Zhōngguó. (I am from China.)"
+    },
+    {
+      "word": "re2n",
+      "pinyin": "rén",
+      "translation": "people",
+      "hsk_level": 1,
+      "part_of_speech": "noun",
+      "category": null,
+      "example_sentence": "Zhèlǐ yǒu hěn duō rén. (There are many people here.)"
+    },
+    {
+      "word": "me3iguo2",
+      "pinyin": "Měiguó",
+      "translation": "US/America",
+      "hsk_level": 1,
+      "part_of_speech": "noun",
+      "category": "Geography",
+      "example_sentence": "Tā shì Měiguórén. (He is American.)"
+    },
+    {
+      "word": "ma",
+      "pinyin": "ma",
+      "translation": "question particle (yes-no)",
+      "hsk_level": 1,
+      "part_of_speech": "particle",
+      "category": null,
+      "example_sentence": "Nǐ shì xuésheng ma? (Are you a student?)"
+    },
+    {
+      "word": "bu4",
+      "pinyin": "bù",
+      "translation": "no/not",
+      "hsk_level": 1,
+      "part_of_speech": "adverb",
+      "category": null,
+      "example_sentence": "Wǒ bù shì yīshēng. (I am not a doctor.)"
+    },
+    {
+      "word": "ta1",
+      "pinyin": "tā",
+      "translation": "she/her/he/him (singular)",
+      "hsk_level": 1,
+      "part_of_speech": "pronoun",
+      "category": null,
+      "example_sentence": "Tā shì lǎoshī. (She is a teacher.)"
+    },
+    {
+      "word": "yi1ngyu3",
+      "pinyin": "Yīngyǔ",
+      "translation": "English (language)",
+      "hsk_level": 1,
+      "part_of_speech": "noun",
+      "category": "Language",
+      "example_sentence": "Nǐ huì shuō Yīngyǔ ma? (Can you speak English?)"
+    },
+    {
+      "word": "ha4nyu3",
+      "pinyin": "Hànyǔ",
+      "translation": "Chinese (language)",
+      "hsk_level": 1,
+      "part_of_speech": "noun",
+      "category": "Language",
+      "example_sentence": "Wǒ zhèngzài xué Hànyǔ. (I am learning Chinese.)"
+    },
+    {
+      "word": "shuo1",
+      "pinyin": "shuō",
+      "translation": "to speak/to say",
+      "hsk_level": 1,
+      "part_of_speech": "verb",
+      "category": null,
+      "example_sentence": "Tā shuō Hànyǔ shuō de hěn hǎo. (He speaks Chinese very well.)"
+    },
+    {
+      "word": "xie3",
+      "pinyin": "xiě",
+      "translation": "to write",
+      "hsk_level": 1,
+      "part_of_speech": "verb",
+      "category": null,
+      "example_sentence": "Wǒ xǐhuan xiě hànzì. (I like writing Chinese characters.)"
+    },
+    {
+      "word": "ha4nzi4",
+      "pinyin": "hànzì",
+      "translation": "Chinese character",
+      "hsk_level": 1,
+      "part_of_speech": "noun",
+      "category": "Language",
+      "example_sentence": "Hànzì hěn nán xiě. (Chinese characters are hard to write.)"
+    },
+    {
+      "word": "ye3",
+      "pinyin": "yě",
+      "translation": "also/too",
+      "hsk_level": 1,
+      "part_of_speech": "adverb",
+      "category": null,
+      "example_sentence": "Wǒ yě shì xuésheng. (I am also a student.)"
+    },
+    {
+      "word": "xue2",
+      "pinyin": "xué",
+      "translation": "to learn",
+      "hsk_level": 1,
+      "part_of_speech": "verb",
+      "category": null,
+      "example_sentence": "Wǒ xǐhuan xué Hànyǔ. (I like learning Chinese.)"
+    },
+    {
+      "word": "jia4o",
+      "pinyin": "jiào",
+      "translation": "to call/be called",
+      "hsk_level": 1,
+      "part_of_speech": "verb",
+      "category": null,
+      "example_sentence": "Wǒ jiào Lǐ Míng. (My name is Li Ming.)"
+    },
+    {
+      "word": "dui4",
+      "pinyin": "duì",
+      "translation": "yes/correct",
+      "hsk_level": 1,
+      "part_of_speech": "adjective",
+      "category": null,
+      "example_sentence": "Nǐ shuō de duì. (What you said is correct.)"
+    },
+    {
+      "word": "she2nme",
+      "pinyin": "shénme",
+      "translation": "what",
+      "hsk_level": 1,
+      "part_of_speech": "pronoun",
+      "category": null,
+      "example_sentence": "Nǐ jiào shénme míngzi? (What’s your name?)"
+    },
+    {
+      "word": "mi2ngzi",
+      "pinyin": "míngzi",
+      "translation": "name",
+      "hsk_level": 1,
+      "part_of_speech": "noun",
+      "category": null,
+      "example_sentence": "Tā de míngzi hěn tèbié. (His name is unique.)"
+    },
+    {
+      "word": "ke3 yi3",
+      "pinyin": "kě yǐ",
+      "translation": "can (permission)",
+      "hsk_level": 1,
+      "part_of_speech": "verb",
+      "category": null,
+      "example_sentence": "Nǐ kěyǐ qù túshūguǎn. (You can go to the library.)"
+    },
+    {
+      "word": "sho3u ji1",
+      "pinyin": "shǒu jī",
+      "translation": "mobile device",
+      "hsk_level": 1,
+      "part_of_speech": "noun",
+      "category": "Technology",
+      "example_sentence": "Wǒ de shǒujī méi diàn le. (My phone is out of battery.)"
+    },
+        {
+          "word": "pi2nggu3o",
+          "pinyin": "píngguǒ",
+          "translation": "apple",
+          "hsk_level": 1,
+          "part_of_speech": "noun",
+          "category": "Food",
+          "example_sentence": "Píngguǒ hěn tián. (Apples are sweet.)"
+        },
+        {
+          "word": "chi1",
+          "pinyin": "chī",
+          "translation": "to eat",
+          "hsk_level": 1,
+          "part_of_speech": "verb",
+          "category": null,
+          "example_sentence": "Wǒ xǐhuan chī shuǐguǒ. (I like eating fruits.)"
+        },
+        {
+          "word": "xi1 gua1",
+          "pinyin": "xī guā",
+          "translation": "watermelon",
+          "hsk_level": 1,
+          "part_of_speech": "noun",
+          "category": "Food",
+          "example_sentence": "Xī guā hěn hǎochī. (Watermelon is delicious.)"
+        },
+        {
+          "word": "he2",
+          "pinyin": "hé",
+          "translation": "and",
+          "hsk_level": 1,
+          "part_of_speech": "conjunction",
+          "category": null,
+          "example_sentence": "Wǒ hé tā shì hǎo péngyou. (I and he are good friends.)"
+        },
+        {
+          "word": "do1u",
+          "pinyin": "dōu",
+          "translation": "all",
+          "hsk_level": 1,
+          "part_of_speech": "adverb",
+          "category": null,
+          "example_sentence": "Tāmen dōu shì xuésheng. (They are all students.)"
+        },
+        {
+          "word": "ma2ngguo3",
+          "pinyin": "mángguǒ",
+          "translation": "mango",
+          "hsk_level": 1,
+          "part_of_speech": "noun",
+          "category": "Food",
+          "example_sentence": "Mángguǒ hěn hǎochī. (Mango is very tasty.)"
+        },
+        {
+          "word": "bo1luo2",
+          "pinyin": "bōluó",
+          "translation": "pineapple",
+          "hsk_level": 1,
+          "part_of_speech": "noun",
+          "category": "Food",
+          "example_sentence": "Bōluó shì yì zhǒng shuǐguǒ. (Pineapple is a kind of fruit.)"
+        },
+        {
+          "word": "xi3huan",
+          "pinyin": "xǐhuan",
+          "translation": "to like",
+          "hsk_level": 1,
+          "part_of_speech": "verb",
+          "category": null,
+          "example_sentence": "Wǒ xǐhuan chī píngguǒ. (I like eating apples.)"
+        },
+        {
+          "word": "bi3ngga1n",
+          "pinyin": "bǐnggān",
+          "translation": "cookies/biscuits",
+          "hsk_level": 1,
+          "part_of_speech": "noun",
+          "category": "Food",
+          "example_sentence": "Zhèxiē bǐnggān hěn xiāng. (These cookies are very fragrant.)"
+        },
+        {
+          "word": "shui3guo3",
+          "pinyin": "shuǐguǒ",
+          "translation": "fruits",
+          "hsk_level": 1,
+          "part_of_speech": "noun",
+          "category": "Food",
+          "example_sentence": "Wǒ měitiān chī shuǐguǒ. (I eat fruits every day.)"
+        },
+        {
+          "word": "mia1nba1o",
+          "pinyin": "miànbāo",
+          "translation": "bread",
+          "hsk_level": 1,
+          "part_of_speech": "noun",
+          "category": "Food",
+          "example_sentence": "Tā xǐhuan chī miànbāo. (He likes eating bread.)"
+        },
+        {
+          "word": "ji1da4n",
+          "pinyin": "jīdàn",
+          "translation": "egg",
+          "hsk_level": 1,
+          "part_of_speech": "noun",
+          "category": "Food",
+          "example_sentence": "Jīdàn shì zhòngyào de shípǐn. (Eggs are an important food.)"
+        },
+        {
+          "word": "ke3 shi4",
+          "pinyin": "kěshì",
+          "translation": "but",
+          "hsk_level": 1,
+          "part_of_speech": "conjunction",
+          "category": null,
+          "example_sentence": "Wǒ xiǎng qù, kěshì méiyǒu shíjiān. (I want to go, but I don’t have time.)"
+        },
+        {
+          "word": "zhu4 za4i",
+          "pinyin": "zhù zài",
+          "translation": "to live in",
+          "hsk_level": 1,
+          "part_of_speech": "verb",
+          "category": null,
+          "example_sentence": "Wǒ zhù zài Běijīng. (I live in Beijing.)"
+        },
+        {
+          "word": "yo3u",
+          "pinyin": "yǒu",
+          "translation": "to have",
+          "hsk_level": 1,
+          "part_of_speech": "verb",
+          "category": null,
+          "example_sentence": "Wǒ yǒu yí ge mèimei. (I have a younger sister.)"
+        },
+            {
+              "word": "na2n pe2ng yo3u",
+              "pinyin": "nán péngyǒu",
+              "translation": "boyfriend",
+              "hsk_level": 1,
+              "part_of_speech": "noun",
+              "category": "Relationships",
+              "example_sentence": "Tā de nán péngyǒu hěn yōumò. (Her boyfriend is very humorous.)"
+            },
+            {
+              "word": "we4i she1n me",
+              "pinyin": "wèi shénme",
+              "translation": "why",
+              "hsk_level": 1,
+              "part_of_speech": "adverb",
+              "category": "Questions",
+              "example_sentence": "Nǐ wèishénme bù lái? (Why didn’t you come?)"
+            },
+            {
+              "word": "ma1ma",
+              "pinyin": "māma",
+              "translation": "mother",
+              "hsk_level": 1,
+              "part_of_speech": "noun",
+              "category": "Family",
+              "example_sentence": "Wǒ māma zuò de fàn hěn hǎochī. (My mom’s cooking is delicious.)"
+            },
+            {
+              "word": "ba1ba",
+              "pinyin": "bàba",
+              "translation": "father",
+              "hsk_level": 1,
+              "part_of_speech": "noun",
+              "category": "Family",
+              "example_sentence": "Wǒ bàba hěn máng. (My dad is very busy.)"
+            },
+            {
+              "word": "ye2ye",
+              "pinyin": "yéye",
+              "translation": "grandpa",
+              "hsk_level": 1,
+              "part_of_speech": "noun",
+              "category": "Family",
+              "example_sentence": "Wǒ yéye xǐhuan kàn diànshì. (My grandpa likes watching TV.)"
+            },
+            {
+              "word": "na3inai",
+              "pinyin": "nǎinai",
+              "translation": "grandma",
+              "hsk_level": 1,
+              "part_of_speech": "noun",
+              "category": "Family",
+              "example_sentence": "Wǒ nǎinai hěn qīnqiè. (My grandma is very kind.)"
+            },
+            {
+              "word": "yi1n we4i",
+              "pinyin": "yīnwèi",
+              "translation": "because",
+              "hsk_level": 1,
+              "part_of_speech": "conjunction",
+              "category": null,
+              "example_sentence": "Wǒ méiyǒu qù, yīnwèi xiàyǔ le. (I didn’t go because it rained.)"
+            },
+            {
+              "word": "shua1ng xi4ng lia4n",
+              "pinyin": "shuāng xìng liàn",
+              "translation": "bisexual",
+              "hsk_level": null,
+              "part_of_speech": "adjective",
+              "category": "Identity",
+              "example_sentence": "Tā shì shuāng xìng liàn. (They are bisexual.)"
+            },
+            {
+              "word": "wo3 ca4o",
+              "pinyin": "wǒ cào",
+              "translation": "what the fuck",
+              "hsk_level": null,
+              "part_of_speech": "curse word",
+              "category": "Slang",
+              "example_sentence": "Wǒ cào! Zhè tài jīngyàn le. (What the fuck! This is shocking.)"
+            },
+            {
+              "word": "qu4 ni3 de",
+              "pinyin": "qù nǐ de",
+              "translation": "fuck you",
+              "hsk_level": null,
+              "part_of_speech": "curse word",
+              "category": "Slang",
+              "example_sentence": "Tā shēngqì de shuō: 'Qù nǐ de!' (He angrily said: 'Fuck you!')"
+            },
+            {
+              "word": "gua1n wo3 pi4 shi4",
+              "pinyin": "guān wǒ pì shì",
+              "translation": "I don't give a fuck",
+              "hsk_level": null,
+              "part_of_speech": "curse word",
+              "category": "Slang",
+              "example_sentence": "Guān wǒ pì shì, wǒ zuò wǒ xiǎng zuò de. (I don’t give a fuck; I’ll do what I want.)"
+            },
+            {
+              "word": "ya1 de bi4 zui3",
+              "pinyin": "yā de bì zuǐ",
+              "translation": "shut the fuck up",
+              "hsk_level": null,
+              "part_of_speech": "curse word",
+              "category": "Slang",
+              "example_sentence": "Tā hán nù de shuō: 'Yā de bì zuǐ!' (He shouted angrily: 'Shut the fuck up!')"
+            },
+            {
+              "word": "bitch de e2rzi",
+              "pinyin": "bitch de érzi",
+              "translation": "son of a bitch",
+              "hsk_level": null,
+              "part_of_speech": "curse word",
+              "category": "Slang",
+              "example_sentence": "Tā kǒuqì bù hǎo de shuō: 'Bitch de érzi!' (He said rudely: 'Son of a bitch!')"
+            },
+            {
+              "word": "shui3",
+              "pinyin": "shuǐ",
+              "translation": "water",
+              "hsk_level": 1,
+              "part_of_speech": "noun",
+              "category": "Drink",
+              "example_sentence": "Wǒ xiǎng hē shuǐ. (I want to drink water.)"
+            },
+            {
+              "word": "guo3zhi1",
+              "pinyin": "guǒzhī",
+              "translation": "juice",
+              "hsk_level": 1,
+              "part_of_speech": "noun",
+              "category": "Drink",
+              "example_sentence": "Wǒ xǐhuan hē guǒzhī. (I like drinking juice.)"
+            },
+            {
+              "word": "ka1fe1i",
+              "pinyin": "kāfēi",
+              "translation": "coffee",
+              "hsk_level": 1,
+              "part_of_speech": "noun",
+              "category": "Drink",
+              "example_sentence": "Zǎoshàng wǒ xǐhuan hē kāfēi. (I like drinking coffee in the morning.)"
+            },
+            {
+              "word": "cha1",
+              "pinyin": "chá",
+              "translation": "tea",
+              "hsk_level": 1,
+              "part_of_speech": "noun",
+              "category": "Drink",
+              "example_sentence": "Zhōngguó chá hěn zhùmíng. (Chinese tea is very famous.)"
+            },
+            {
+              "word": "he1",
+              "pinyin": "hē",
+              "translation": "to drink",
+              "hsk_level": 1,
+              "part_of_speech": "verb",
+              "category": "Action",
+              "example_sentence": "Wǒ xiǎng hē chá. (I want to drink tea.)"
+            },
+                {
+                  "word": "xie4xie",
+                  "pinyin": "xièxie",
+                  "translation": "thank you",
+                  "hsk_level": 1,
+                  "part_of_speech": "phrase",
+                  "category": "Politeness",
+                  "example_sentence": "Xièxie nǐ de bāngzhù. (Thank you for your help.)"
+                },
+                {
+                  "word": "bu2 ke4 qi3",
+                  "pinyin": "bú kèqì",
+                  "translation": "you are welcome",
+                  "hsk_level": 1,
+                  "part_of_speech": "phrase",
+                  "category": "Politeness",
+                  "example_sentence": "Xièxie! Bú kèqì! (Thank you! You’re welcome!)"
+                },
+                {
+                  "word": "dui4 bu qi3",
+                  "pinyin": "duìbuqǐ",
+                  "translation": "sorry",
+                  "hsk_level": 1,
+                  "part_of_speech": "phrase",
+                  "category": "Apologies",
+                  "example_sentence": "Duìbuqǐ, wǒ láiwǎn le. (Sorry, I’m late.)"
+                },
+                {
+                  "word": "me2i gua1nxi",
+                  "pinyin": "méi guānxi",
+                  "translation": "it's alright",
+                  "hsk_level": 1,
+                  "part_of_speech": "phrase",
+                  "category": "Politeness",
+                  "example_sentence": "Duìbuqǐ! Méi guānxi. (Sorry! It’s alright.)"
+                },
+                {
+                  "word": "wa3n sha4ng ha3o",
+                  "pinyin": "wǎnshàng hǎo",
+                  "translation": "good evening",
+                  "hsk_level": 1,
+                  "part_of_speech": "greeting",
+                  "category": "Time-based greetings",
+                  "example_sentence": "Wǎnshàng hǎo! Nǐ máng ma? (Good evening! Are you busy?)"
+                },
+                {
+                  "word": "wa3n a1n",
+                  "pinyin": "wǎn ān",
+                  "translation": "good night",
+                  "hsk_level": 1,
+                  "part_of_speech": "greeting",
+                  "category": "Time-based greetings",
+                  "example_sentence": "Wǎn ān, zhù nǐ hǎo mèng! (Good night, sweet dreams!)"
+                },
+                {
+                  "word": "za3o sha4ng ha3o",
+                  "pinyin": "zǎoshàng hǎo",
+                  "translation": "good morning",
+                  "hsk_level": 1,
+                  "part_of_speech": "greeting",
+                  "category": "Time-based greetings",
+                  "example_sentence": "Zǎoshàng hǎo, nǐ chī zǎofàn le ma? (Good morning, have you had breakfast?)"
+                },
+                {
+                  "word": "pe2ngyou",
+                  "pinyin": "péngyou",
+                  "translation": "friend",
+                  "hsk_level": 1,
+                  "part_of_speech": "noun",
+                  "category": "Relationships",
+                  "example_sentence": "Tā shì wǒ de péngyou. (She is my friend.)"
+                },
+                {
+                  "word": "qi2nadi2",
+                  "pinyin": "qíngdí",
+                  "translation": "love rivals",
+                  "hsk_level": null,
+                  "part_of_speech": "noun",
+                  "category": "Relationships",
+                  "example_sentence": "Zhè liǎng gè rén shì qíngdí. (These two people are love rivals.)"
+                },
+                {
+                  "word": "xia3ng",
+                  "pinyin": "xiǎng",
+                  "translation": "to want",
+                  "hsk_level": 1,
+                  "part_of_speech": "verb",
+                  "category": null,
+                  "example_sentence": "Wǒ xiǎng hē chá. (I want to drink tea.)"
+                },
+                {
+                  "word": "yi3 we2i",
+                  "pinyin": "yǐwéi",
+                  "translation": "to think (mistakenly)",
+                  "hsk_level": 1,
+                  "part_of_speech": "verb",
+                  "category": null,
+                  "example_sentence": "Wǒ yǐwéi tā huì lái. (I mistakenly thought he would come.)"
+                },
+                {
+                  "word": "he3n",
+                  "pinyin": "hěn",
+                  "translation": "very",
+                  "hsk_level": 1,
+                  "part_of_speech": "adverb",
+                  "category": null,
+                  "example_sentence": "Tā hěn piàoliang. (She is very beautiful.)"
+                },
+                {
+                  "word": "sha3",
+                  "pinyin": "shǎ",
+                  "translation": "silly/stupid",
+                  "hsk_level": null,
+                  "part_of_speech": "adjective",
+                  "category": null,
+                  "example_sentence": "Nǐ zhēn shǎ! (You are really silly!)"
+                },
+                {
+                  "word": "zhe4",
+                  "pinyin": "zhè",
+                  "translation": "this",
+                  "hsk_level": 1,
+                  "part_of_speech": "pronoun",
+                  "category": null,
+                  "example_sentence": "Zhè shì shénme? (What is this?)"
+                },
+                {
+                  "word": "re4nshi",
+                  "pinyin": "rènshi",
+                  "translation": "to know/to recognize",
+                  "hsk_level": 1,
+                  "part_of_speech": "verb",
+                  "category": null,
+                  "example_sentence": "Wǒ rènshi tā. (I know him/her.)"
+                },
+                {
+                  "word": "ma3i",
+                  "pinyin": "mǎi",
+                  "translation": "to buy",
+                  "hsk_level": 1,
+                  "part_of_speech": "verb",
+                  "category": null,
+                  "example_sentence": "Wǒ xiǎng mǎi yī běn shū. (I want to buy a book.)"
+                },
+                {
+                  "word": "lia4n",
+                  "pinyin": "liàn",
+                  "translation": "to practice",
+                  "hsk_level": 1,
+                  "part_of_speech": "verb",
+                  "category": null,
+                  "example_sentence": "Wǒ xǐhuan liàn xiě hànzì. (I like practicing writing Chinese characters.)"
+                },
+                {
+                  "word": "guo2wa1i",
+                  "pinyin": "guówài",
+                  "translation": "abroad",
+                  "hsk_level": 1,
+                  "part_of_speech": "noun",
+                  "category": null,
+                  "example_sentence": "Tā xiǎng qù guówài gōngzuò. (He wants to work abroad.)"
+                },
+                {
+                  "word": "jia1ng",
+                  "pinyin": "jiāng",
+                  "translation": "will",
+                  "hsk_level": 2,
+                  "part_of_speech": "auxiliary verb",
+                  "category": null,
+                  "example_sentence": "Wǒ jiāng qù Zhōngguó. (I will go to China.)"
+                },
+                {
+                  "word": "de",
+                  "pinyin": "de",
+                  "translation": "possessive",
+                  "hsk_level": 1,
+                  "part_of_speech": "particle",
+                  "category": null,
+                  "example_sentence": "Zhè shì wǒ de shū. (This is my book.)"
+                },
+                {
+                  "word": "me2i",
+                  "pinyin": "méi",
+                  "translation": "negate action (in the past)",
+                  "hsk_level": 1,
+                  "part_of_speech": "adverb",
+                  "category": null,
+                  "example_sentence": "Wǒ méi qù xuéxiào. (I didn’t go to school.)"
+                },
+                {
+                  "word": "le",
+                  "pinyin": "le",
+                  "translation": "completed action/change of state",
+                  "hsk_level": 1,
+                  "part_of_speech": "particle",
+                  "category": null,
+                  "example_sentence": "Tā chī fàn le. (He has eaten.)"
+                },
+                {
+                  "word": "dian",
+                  "pinyin": "diàn",
+                  "translation": "electricity",
+                  "hsk_level": 1,
+                  "part_of_speech": "noun",
+                  "category": null,
+                  "example_sentence": "Zhèlǐ méiyǒu diàn. (There’s no electricity here.)"
+                },
+                {
+                  "word": "kua4i",
+                  "pinyin": "kuài",
+                  "translation": "colloquial word for yuan (discussing price)",
+                  "hsk_level": 1,
+                  "part_of_speech": "measure word",
+                  "category": null,
+                  "example_sentence": "Zhège 10 kuài. (This is 10 yuan.)"
+                },
+                {
+                  "word": "yi1",
+                  "pinyin": "yī",
+                  "translation": "one",
+                  "hsk_level": 1,
+                  "part_of_speech": "number",
+                  "category": "Numbers",
+                  "example_sentence": "Zhè shì yī běn shū. (This is one book.)"
+                },
+                {
+                  "word": "lia3ng",
+                   "pinyin": "liǎng",
+                  "translation": "two",
+                  "hsk_level": 1,
+                  "part_of_speech": "number",
+                  "category": "Numbers",
+                  "example_sentence": "Wǒ yǒu liǎng gè péngyǒu. (I have two friends.)"
+                },                    {
+                    "word": "e2r",
+                  "pinyin": "èr",
+                  "translation": "two",
+                  "hsk_level": 1,
+                  "part_of_speech": "number",
+                "category": "Numbers",
+                  "example_sentence": "Zhège shì èr. (This is two.)"
+                },
+                {                      "word": "sa3n",
+                  "pinyin": "sān",
+                      "translation": "three",
+                      "hsk_level": 1,
+                      "part_of_speech": "number",
+                      "category": "Numbers",
+                      "example_sentence": "Tā yǒu sān běn shū. (He has three books.)"
+                    },
+                    {
+                      "word": "si4",
+                      "pinyin": "sì",
+                      "translation": "four",
+                      "hsk_level": 1,
+                      "part_of_speech": "number",
+                      "category": "Numbers",
+                      "example_sentence": "Wǒmen sì gèrén yīqǐ qù. (Four of us are going together.)"
+                    },
+                    {
+                      "word": "wu3",
+                      "pinyin": "wǔ",
+                      "translation": "five",
+                      "hsk_level": 1,
+                      "part_of_speech": "number",
+                      "category": "Numbers",
+                      "example_sentence": "Tā de jiā yǒu wǔ gèrén. (There are five people in his family.)"
+                    },
+                    {
+                      "word": "liu4",
+                      "pinyin": "liù",
+                      "translation": "six",
+                      "hsk_level": 1,
+                      "part_of_speech": "number",
+                      "category": "Numbers",
+                      "example_sentence": "Zhèlǐ yǒu liù zhī māo. (There are six cats here.)"
+                    },
+                    {
+                      "word": "qi1",
+                      "pinyin": "qī",
+                      "translation": "seven",
+                      "hsk_level": 1,
+                      "part_of_speech": "number",
+                      "category": "Numbers",
+                      "example_sentence": "Tā shì qī niánjí de xuésheng. (He is a seventh-grade student.)"
+                    },
+                    {
+                      "word": "ba1",
+                      "pinyin": "bā",
+                      "translation": "eight",
+                      "hsk_level": 1,
+                      "part_of_speech": "number",
+                      "category": "Numbers",
+                      "example_sentence": "Zhèlǐ yǒu bā gè xiāngzi. (There are eight boxes here.)"
+                    },
+                    {
+                      "word": "jiu3",
+                      "pinyin": "jiǔ",
+                      "translation": "nine",
+                      "hsk_level": 1,
+                      "part_of_speech": "number",
+                      "category": "Numbers",
+                      "example_sentence": "Zhège shù zì shì jiǔ. (This number is nine.)"
+                    },
+                    {
+                      "word": "shi2",
+                      "pinyin": "shí",
+                      "translation": "ten",
+                      "hsk_level": 1,
+                      "part_of_speech": "number",
+                      "category": "Numbers",
+                      "example_sentence": "Shí gè rén yīqǐ lái. (Ten people came together.)"
+                    },
+                    {
+                      "word": "da4 xue2 she1ng",
+                      "pinyin": "dàxuéshēng",
+                      "translation": "college student",
+                      "hsk_level": 1,
+                      "part_of_speech": "noun",
+                      "category": "Education",
+                      "example_sentence": "Tā shì yī míng dàxuéshēng. (He is a college student.)"
+                    },
+                    {
+                      "word": "to2ng xue2",
+                      "pinyin": "tóngxué",
+                      "translation": "classmate/schoolmate",
+                      "hsk_level": 1,
+                      "part_of_speech": "noun",
+                      "category": "Education",
+                      "example_sentence": "Tā shì wǒ de tóngxué. (She is my classmate.)"
+                    },
+                    {
+                      "word": "duo1shao",
+                      "pinyin": "duōshǎo",
+                      "translation": "how much; how many",
+                      "hsk_level": 1,
+                      "part_of_speech": "pronoun",
+                      "category": null,
+                      "example_sentence": "Zhège duōshǎo qián? (How much does this cost?)"
+                    },
+                    {
+                      "word": "qia2n",
+                      "pinyin": "qián",
+                      "translation": "money",
+                      "hsk_level": 1,
+                      "part_of_speech": "noun",
+                      "category": "Finance",
+                      "example_sentence": "Wǒ yǒu hěn duō qián. (I have a lot of money.)"
+                    },
+                    {
+                      "word": "ge4",
+                      "pinyin": "gè",
+                      "translation": "measure word for people/objects in general",
+                      "hsk_level": 1,
+                      "part_of_speech": "measure word",
+                      "category": null,
+                      "example_sentence": "Yī gè rén zài jiā. (One person is at home.)"
+                    },
+                    {
+                      "word": "be1i",
+                      "pinyin": "bēi",
+                      "translation": "measure word for glass; cup",
+                      "hsk_level": 1,
+                      "part_of_speech": "measure word",
+                      "category": null,
+                      "example_sentence": "Yī bēi chá. (A cup of tea.)"
+                    },
+                    {
+                      "word": "pi2ng",
+                      "pinyin": "píng",
+                      "translation": "bottle measure word",
+                      "hsk_level": 1,
+                      "part_of_speech": "measure word",
+                      "category": null,
+                      "example_sentence": "Yī píng shuǐ. (A bottle of water.)"
+                    },
+                    {
+                      "word": "a4i",
+                      "pinyin": "ài",
+                      "translation": "to love",
+                      "hsk_level": 1,
+                      "part_of_speech": "verb",
+                      "category": null,
+                      "example_sentence": "Wǒ ài wǒ de jiārén. (I love my family.)"
+                    },
+                    {
+                      "word": "ko3u",
+                      "pinyin": "kǒu",
+                      "translation": "measure word for family member",
+                      "hsk_level": 1,
+                      "part_of_speech": "measure word",
+                      "category": null,
+                      "example_sentence": "Wǒ jiā yǒu sān kǒu rén. (There are three people in my family.)"
+                    },
+                    {
+                      "word": "jia1",
+                      "pinyin": "jiā",
+                      "translation": "home; family",
+                      "hsk_level": 1,
+                      "part_of_speech": "noun",
+                      "category": null,
+                      "example_sentence": "Wǒ huí jiā le. (I went home.)"
+                    },
+                    {
+                      "word": "me4imei",
+                      "pinyin": "mèimei",
+                      "translation": "younger sister",
+                      "hsk_level": 1,
+                      "part_of_speech": "noun",
+                      "category": "Family",
+                      "example_sentence": "Wǒ de mèimei hěn kě'ài. (My younger sister is very cute.)"
+                    },
+                    {
+                      "word": "di4di",
+                      "pinyin": "dìdi",
+                      "translation": "younger brother",
+                      "hsk_level": 1,
+                      "part_of_speech": "noun",
+                      "category": "Family",
+                      "example_sentence": "Wǒ de dìdi xǐhuan wán yóuxì. (My younger brother likes playing games.)"
+                    },
+                    {
+                      "word": "me2i yo3u",
+                      "pinyin": "méiyǒu",
+                      "translation": "to not have",
+                      "hsk_level": 1,
+                      "part_of_speech": "verb",
+                      "category": null,
+                      "example_sentence": "Wǒ méiyǒu shíjiān. (I don’t have time.)"
+                    }
+]                  
+              
+                        
+          
+      
+  
